@@ -243,62 +243,7 @@ input{
 /* Subscribe Newsletter style */
 #Subscribe-Newsletter{
     
-    /* margin: 40px; */
-    margin: 0 auto;
-    border-radius: 24px;
-    background: rgb(198, 228, 214);
-    width: 1000px;
-    height: 300px;
-    padding: 80px 100px 80px 100px;
-}
-.Subscribe-Newsletter{
-    margin: 0 auto;
-    padding: 40px 50px;
-    width: 750px;
-    height: 250px;
-    text-align: center;
-   
-}
-.sec3-h1{
-    width: 622px;
-    height: 28px;
-    /* align-items: center; */
-    color: rgb(14, 14, 14);
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 48px;
-    margin: 0 auto;
-    margin-bottom: 24px;
-
-}
-
-.sec3-p1{
-    width: 622px;
-    height: 48px;
-    color: rgba(14, 14, 14, 0.7);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    margin: 0 auto;
-    margin-bottom: 24px;
-   
-}
-.news-btn-r-input{
-    display: flex;
-     align-items: center;
-     width: 500px;
-     justify-content: center;
-     margin-bottom: 34px;
-}
-.news-input{
-    width: 600px;
-    height: 15px;
-    margin-bottom: 16px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
+  
 /* foote style */
 .footer{
     background-color: rgb(255, 255, 255);
